@@ -26,6 +26,20 @@ const emojipedia = [
     name: "Smiling Face With Open Mouth & Cold Sweat",
     meaning:
       "Sweaty smile. Relief that a tight situation went well or was coped with positively, e.g. an important appointment. A difficult event is imminent and you are already nervous."
+  },
+  {
+    id: 5,
+    emoji: "😇",
+    name: "Smiling Face With Halo",
+    meaning:
+      "Would like to express its (possibly pretended) innocence. Someone does good deeds, is very sweet, innocent and behaves in an exemplary way. The angelic face can also be used humorously for rather not so good deeds or behaviors."
+  },
+  {
+    id: 6,
+    emoji: "😎",
+    name: "Face With Sunglasses",
+    meaning:
+      "I'm the king of the world! Mr. Cool Smiley with sunglasses. Is totally self-assured and relaxed. Everything is absolutely easy and cool. Also a symbol for sun, summer holidays, and holidays on the beach. "
   }
 ];
 
